@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "d7b16d6e9cf4b7b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "765073733ff553ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82f86191e6f1b62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Minikube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d949eacf8ee7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/MacOS/Homebrew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58c938dc056e3f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/MacOS/Homebrew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d5f11596f1c5818",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f5846e11fb624b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea30e3e4e8b12a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "937c5a822f9e20a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08b549938ff86189",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50e3127ac6bb035a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99fc031cfb75e7b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c5b2c460f63e5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OS/MacOS/Homebrew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9660474e33d7bf6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OS/MacOS/Homebrew.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24a70acf467ecc6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82d88abdac1c0c38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OS/MacOS/Homebrew.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "58c938dc056e3f73",
+  "lastOpenFiles": [
+    "OS/MacOS/Misc.md",
+    "OS/MacOS/Homebrew.md",
+    "Kubernetes/Minikube.md",
+    "Kubernetes/Kubectl.md",
+    "Kubernetes/Basics.md",
+    "README.md",
+    "Splunk/Cloud Workshop.md",
+    "Redis/redis-cli.md",
+    "Redis/Basics.md",
+    "Password Cracking/Hashcat.md"
+  ]
+}

@@ -1,2 +1,3 @@
 # Notes
-General IT &amp; cyber notes and references
+General IT & cyber notes and references
+
