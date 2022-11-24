@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/Homebrew.md",
+                "file": "OS/MacOS/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b519551c5bd65cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/tmux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21c1c413df83da31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Linux/tmux.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/Homebrew.md",
+                "file": "Kubernetes/Minikube.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/MacOS/Homebrew.md",
+                "file": "OS/Linux/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/MacOS/Homebrew.md",
+                "file": "OS/Linux/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/MacOS/Homebrew.md"
+                "file": "OS/Linux/tmux.md"
               }
             }
           }
@@ -164,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "58c938dc056e3f73",
+  "active": "21c1c413df83da31",
   "lastOpenFiles": [
+    "OS/Linux/vim.md",
+    "OS/Linux/tmux.md",
     "OS/MacOS/Misc.md",
     "OS/MacOS/Homebrew.md",
     "Kubernetes/Minikube.md",
-    "Kubernetes/Kubectl.md",
-    "Kubernetes/Basics.md",
     "README.md",
     "Splunk/Cloud Workshop.md",
-    "Redis/redis-cli.md",
     "Redis/Basics.md",
+    "Redis/redis-cli.md",
     "Password Cracking/Hashcat.md"
   ]
 }

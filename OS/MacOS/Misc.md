@@ -1,4 +1,7 @@
-### Configure Touch ID for sudo
+# Miscellaneous
+Contains various topics related to MacOS that don't really fit in other areas.
+
+## Configure Touch ID for sudo
 1. Set the privileges for the /etc/pam.d/sudo file to "Read & Write" for everyone
 2. Edit the file and add the following line below the comment
    ``` shell
