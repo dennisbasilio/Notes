@@ -3,7 +3,12 @@ Used for test/local cluster setup
 * Docker pre-installed
 * Has kubectl as dependency (no separate installation)
 
-Starting Minikube
+Installing Minikube with homebrew
+``` shell
+brew install minikube
+```
+
+Starting Minikube (Docker is preferred)
 ```shell
 minikube start --driver docker
 ```
