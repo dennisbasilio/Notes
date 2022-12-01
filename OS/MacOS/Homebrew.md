@@ -14,5 +14,14 @@ brew install [package]
 ```
 
 ### Currently installed via Homebrew
-1. wget
-2. tmux
+``` shell
+# wget
+brew install wget
+
+# tmux
+brew install tmux
+
+# terraform
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+```

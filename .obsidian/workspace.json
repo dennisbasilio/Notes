@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0eb60207a0ddf085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/MacOS/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d974ffb27ae681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/AWS/aws-cli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/tmux.md",
+                "file": "Cloud/AWS/aws-cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/tmux.md",
+                "file": "Cloud/AWS/aws-cli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/tmux.md"
+                "file": "Cloud/AWS/aws-cli.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86e8adbe185dcffb",
+  "active": "b0d974ffb27ae681",
   "lastOpenFiles": [
-    "Redis/Basics.md",
-    "Kubernetes/Minikube.md",
+    "OS/MacOS/Misc.md",
+    "Terraform/Basics.md",
+    "OS/MacOS/Homebrew.md",
     "OS/Linux/vim.md",
     "OS/Linux/tmux.md",
+    "Redis/Basics.md",
+    "Kubernetes/Minikube.md",
     "Kubernetes/Kubectl.md",
     "Docker/Basics.md",
-    "Kubernetes/Basics.md",
-    "OS/MacOS/Homebrew.md",
-    "OS/MacOS/Misc.md",
-    "README.md"
+    "Kubernetes/Basics.md"
   ]
 }
