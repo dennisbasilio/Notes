@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6d562cd6551d00ea",
+        "id": "9329f031fc280a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "86e8adbe185dcffb",
+            "id": "2d98f949a939fbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/tmux.md",
+                "file": "Terraform/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0eb60207a0ddf085",
+            "id": "cefee56535ccff54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/MacOS/Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0d974ffb27ae681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/AWS/aws-cli.md",
+                "file": "Terraform/Configuration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/AWS/aws-cli.md",
+                "file": "Terraform/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/AWS/aws-cli.md",
+                "file": "Terraform/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/AWS/aws-cli.md"
+                "file": "Terraform/Configuration.md"
               }
             }
           }
@@ -161,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0d974ffb27ae681",
+  "active": "cefee56535ccff54",
   "lastOpenFiles": [
-    "OS/MacOS/Misc.md",
     "Terraform/Basics.md",
-    "OS/MacOS/Homebrew.md",
-    "OS/Linux/vim.md",
-    "OS/Linux/tmux.md",
-    "Redis/Basics.md",
-    "Kubernetes/Minikube.md",
-    "Kubernetes/Kubectl.md",
+    "Terraform/Configuration.md",
     "Docker/Basics.md",
-    "Kubernetes/Basics.md"
+    "OS/Linux/tmux.md",
+    "Cloud/AWS/aws-cli.md",
+    "OS/Linux/vim.md",
+    "OS/MacOS/Misc.md",
+    "OS/MacOS/Homebrew.md",
+    "Redis/Basics.md",
+    "Kubernetes/Minikube.md"
   ]
 }

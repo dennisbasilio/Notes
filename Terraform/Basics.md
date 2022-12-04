@@ -10,6 +10,10 @@ Basic process to deploy infrastructure with Terraform:
 4. **Plan** - Preview the changes Terraform will make to match your configuration.
 5. **Apply** - Make the planned changes.
 
+State file
+* Tracks state of the environment and acts as a source of truth.
+* Used to determine what changes to make to match your configuration.
+
 ## Installation
 Install via Homebrew
 ``` shell
